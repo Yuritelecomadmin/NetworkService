@@ -1,13 +1,11 @@
-# 百合電信互聯網服務
+# 百合电信互联网服务
 
-歡迎使用百合電信提供的各項服務  
+欢迎使用百合电信提供的各项服务  
 
-聯系方式
-- 客服部門：sales@yuritelecom.moe
-- 技術支持：support@yuritelecom.moe
-- 商業合作：contact@yuritelecom.moe
+联系方式
+- 网站客服：service@yuritelecom.moe 或 yuritelecom@outlook.com
 
-網站地址
-- 請用註冊賬號發送郵件到我們的[客服部門]獲取網站地址。
+网站地址
+- 请用注册账号发送邮件到我们的[客服部门]获取网站地址。
 
-2020/9/17 transit.yuritelecom.moe
+2021/4/20 Yuritelecom 百合电信
